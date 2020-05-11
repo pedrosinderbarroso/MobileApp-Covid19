@@ -26,7 +26,7 @@ I have created a simple Covid-19 application that keeps track of the number of c
 - Volley (API fetcher)
 - AnyChart data visualization library
 
-[Back To The Top](#MobileApp-Covid19)
+[Back To The Top](#Covid-19-Android-Application)
 
 ---
 
