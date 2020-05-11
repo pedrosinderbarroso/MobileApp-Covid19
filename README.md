@@ -1,6 +1,6 @@
 # Covid-19 Android Application
 
-![Project Image](https://drive.google.com/open?id=13gXQ2ilT-RozzPNbWtbJaZzq_sBJq67e)
+![Project Image](https://i.ibb.co/mTVQqZT/Covida-19.png)
 
 > Welcome to my Covid-19 project repository. 
 
