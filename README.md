@@ -30,6 +30,18 @@ I have created a simple Covid-19 application that keeps track of the number of c
 
 ---
 
+## Usability
+
+Simply sign-in and start using all the application features. If not registered, simply register then you will be able to sign-in.
+
+#### API
+
+https://covid19api.com
+
+[Back To The Top](#Covid-19-Android-Application)
+
+---
+
 ## License
 
 MIT License
@@ -54,11 +66,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#MobileApp-Covid19)
+[Back To The Top](#Covid-19-Android-Application)
 
 ---
 
 ## Author Info
 Pedro B.
 
-[Back To The Top](#MobileApp-Covid19)
+[Back To The Top](#Covid-19-Android-Application)
